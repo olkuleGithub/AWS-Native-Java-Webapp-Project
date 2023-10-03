@@ -1,2 +1,1 @@
-# AWS-Native-Java-Webapp-Project
-AWS-Native-Java-Webapp-Project
+# AWS Native CI/CD Pipeline Project
